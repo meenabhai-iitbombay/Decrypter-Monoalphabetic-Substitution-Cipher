@@ -1,7 +1,7 @@
 Cryptanalysis
 __Student repository__
 
-The problem statement is in the accompanying `.pdf`. 
+The problem statement is in the accompanying `report.pdf`. 
 
  
  KEY FORMAT
